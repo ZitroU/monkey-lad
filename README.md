@@ -22,6 +22,6 @@
 
 ![alt text](https://github.com/ZitroU/monkey-lad/blob/main/images/menu/menu_alternative.png?raw=true)
 
-Credits : 
-Monkey Lad Sprite tilesheet by surt on opengameart.org.
+Credits : <br/>
+Monkey Lad Sprite tilesheet by surt on opengameart.org. <br/>
 Programming by me.
